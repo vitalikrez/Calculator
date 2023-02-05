@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="buttonNumberBackColor">#FFFFFFFF</color>
+    <color name="buttonOperationBackColor">#FF0000</color>
+    <color name="textNumberColor">#FF000000</color>
+    <color name="textOperationColor">#FFFFFFFF</color>
+</resources>
